@@ -31,7 +31,7 @@
     "@accordproject/cicero-core": "^0.22.0",
     "@accordproject/markdown-cicero": "^0.13.0",
     "@accordproject/markdown-docx": "^0.13.0",
-    "@accordproject/ui-components": "^0.97.0",
+    "@accordproject/ui-components": "^0.98.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.10.2",
